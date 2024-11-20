@@ -11,4 +11,7 @@ table, th, td {
         margin-right: auto;
       }
 
-   
+label {
+color: lightpink;
+
+}
