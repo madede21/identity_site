@@ -1,17 +1,50 @@
-h1 {text-align: center;}
+h1 {
+  text-align: center;
+}
 
-h2 {text-align: center;}
+h2 {
+  text-align: center;
+}
 
-table, th, td {
-    border: 1px solid lightpink;}
+table,
+th,
+td {
+  border: 1px solid lightpink;
+}
 
 
-    .center {
-        margin-left: auto;
-        margin-right: auto;
-      }
+.center {
+  margin-left: auto;
+  margin-right: auto;
+}
 
 label {
-color: lightpink;
+  color: lightpink;
 
 }
+
+#room1 {
+  margin: auto;
+border: 3px solid lightpink;
+margin-left: auto;
+margin-right: auto;
+}
+
+.center {
+margin-left: auto;
+margin-right: auto;
+border: 3px;
+
+}
+
+
+
+  #first1 {
+margin: auto;
+text-align: center;
+  }
+
+  #h33 {
+    text-align: center;
+    color: lightpink;
+  }
